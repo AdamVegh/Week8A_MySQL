@@ -1,7 +1,7 @@
 # Week8A_MySQL
 Practice of MySQL queries
 
-In this repository I want to show you the "first baby files" of my MySQL queries.  
+In this repository I want to show you my first MySQL query babies. :)))  
 [01_hr_db_creation.sql](01_hr_db_creation.sql): creating the database.  
 [02_hr_db_table_creations_and_data_inserts.sql](02_hr_db_table_creations_and_data_inserts.sql): create the tables.  
   
